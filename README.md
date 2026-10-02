@@ -152,17 +152,8 @@ Across both versions, the project covers several important areas of Feature Sele
 
 # Repository Structure & Navigation
 
-> **Add your repository navigation guide here.**
-
-Use this section to explain how the repository is organized and how someone should move through the files.
-
-You can include information such as:
-
-* The location of Version 1
-* The location of Version 2
-* The purpose of each notebook, script, dataset, or documentation file
-* The recommended sequence for studying the materials
-* Any supporting resources included in the repository
+> **On entry into this repository, you will come across five files (with the read.me) which consists of two documentation files on each study resources on
+> the Student Resources 3 drive, their individual code replication and the readme.file.**
 
 ---
 
